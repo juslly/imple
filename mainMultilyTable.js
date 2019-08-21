@@ -31,9 +31,9 @@ function calculate(firstNumber, secondNumber){
     return result;
 }
 
-function printFormatMultilyTable(multilyTableArray){
+// function printFormatMultilyTable(multilyTableArray){
     
-}
+// }
 
 function createMultilyTable(firstNumber, secondNumber){
     //比较firstNumber和sencondNumber的值
